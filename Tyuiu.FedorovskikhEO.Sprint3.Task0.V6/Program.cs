@@ -16,6 +16,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint3.Task0.V6
             int startValue = 1;
             int stopValue = 15;
 
+
             Console.WriteLine("Начальное значение = " + startValue);
             Console.WriteLine("Конечное значение = " + stopValue);
 
