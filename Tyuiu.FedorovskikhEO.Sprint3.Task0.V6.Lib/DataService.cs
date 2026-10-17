@@ -9,7 +9,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint3.Task0.V6.Lib
 
             for (int i = startValue; i <= stopValue; i++)
             {
-                multiplySeries *= 1.0 / Math.Pow(Math.Cos(i) + 1, 2);
+                multiplySeries *= 1.0 / Math.Pow(Math.Cos(5) + 1, 2);
             }
 
             return Math.Round(multiplySeries, 3);
