@@ -14,6 +14,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint3.Task1.V29.Lib
                 double x = 0.25;
                 multiplySeries = multiplySeries * (Math.Pow(x,2) *i +2);
                 i++;
+
             }
 
             return Math.Round(multiplySeries, 3);
