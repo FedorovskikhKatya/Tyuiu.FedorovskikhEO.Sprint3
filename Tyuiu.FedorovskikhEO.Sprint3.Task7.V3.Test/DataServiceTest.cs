@@ -17,6 +17,7 @@ namespace Tyuiu.FedorovskikhEO.Sprint3.Task7.V3.Test
             double[] valueWaitArray;
             valueWaitArray = new double[len];
 
+
             valueWaitArray[0] = 4.34;
             valueWaitArray[1] = 4.16;
             valueWaitArray[2] = 3.71;
